@@ -1,0 +1,1 @@
+confirm('3-JS外链式引入-nihao')
